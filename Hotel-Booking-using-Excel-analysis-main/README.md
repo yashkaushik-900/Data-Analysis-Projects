@@ -42,6 +42,7 @@ The dataset includes booking-related information such as:
 💰 Revenue / Price
 📆 Stay Duration
 🧹 Data Cleaning Steps
+
 Removed duplicate entries
 Handled missing values
 Standardized date formats
@@ -50,19 +51,25 @@ Created new calculated fields:
 Revenue per booking
 Stay duration
 Cancellation flag
+
 📊 Key Business Insights
 📉 Cancellation Analysis
+
 Higher cancellations observed during peak booking months
 Online bookings show higher cancellation rates
+
 🏨 Hotel Performance
 City hotels receive more bookings than resort hotels
 Resort hotels generate higher revenue per booking
+
 👨‍👩‍👧 Customer Behavior
 Couples & families are the largest customer segment
 Repeat customers show lower cancellation rates
+
 📅 Seasonal Trends
 Peak demand during holiday months
 Mid-year months show stable bookings
+
 📈 Dashboard Preview
 
 📊 Excel Dashboard includes:
@@ -73,8 +80,6 @@ Cancellation breakdown
 Customer segmentation
 Interactive filters (Slicers)
 
-👉 (Insert screenshot here)
-![Dashboard](your-image-link.png)
 
 🚀 How to Run This Project
 Download the Excel file from this repository
@@ -94,12 +99,14 @@ Reducing cancellation rates
 Understanding customer demand
 Better pricing decisions
 Seasonal planning optimization
+
 🧠 Skills Learned
 Data Cleaning & Preparation
 Data Visualization in Excel
 Business Analysis Thinking
 Dashboard Design
 Analytical Problem Solving
+
 📌 Future Enhancements
 Power BI Dashboard for advanced visualization
 Python (Pandas) automation for analysis
