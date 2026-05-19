@@ -31,4 +31,3 @@ The goal is to help businesses make **data-driven decisions** by identifying **h
 * **Sales Distribution**: Analyzed demand for different product categories.
 * **Business Recommendations**: Insights for inventory planning and marketing strategies.
 
-# E-Commerce-Sales-by-Data-Analysis
